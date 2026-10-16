@@ -1,2 +1,0 @@
-# Drampad
-webでドラムパッド
